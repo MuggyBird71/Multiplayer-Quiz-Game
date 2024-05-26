@@ -19,7 +19,8 @@ This project is a Python-based multiplayer quiz game server that allows clients 
 3. Install the required libraries using pip:
    ```sh
    pip install -r requirements.txt
-Instructions for using the software:
+
+##Instructions for using the software:
 
 Run the server.py file to start the server.
 sh
