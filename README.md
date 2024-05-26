@@ -23,10 +23,12 @@ This project is a Python-based multiplayer quiz game server that allows clients 
 **Instructions for using the software:**
 
 1. Run the 'server.py' file to start the server.
-  python server.py
-2. In a separate terminal, run the client.py file to start a client.
-  python client.py
-3. Follow the on-screen instructions to enter your username and password, and answer the quiz questions.
+   ```sh
+   python server.py
+3. In a separate terminal, run the client.py file to start a client.
+   ```sh
+   python client.py
+5. Follow the on-screen instructions to enter your username and password, and answer the quiz questions.
 
 ## Development Environment 
 
